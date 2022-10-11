@@ -29,7 +29,7 @@
 **Something to keep in mind:** There are two main ways of executing Python code, i.e., of _applying the Python interpreter to your code_. The first is to use the _editor_ to write your Python code a file, and then 'run' the file as a whole. The second is to enter your code in an 'interactive Python interpreter', called **Python console** in PyCharm, executing each command directly.
 - - - - -
 
-**1.10.** In PyCharm, see if you can find the editor, the 'run' button, and the Python Console button. <p align="center"><img src="https://raw.githubusercontent.com/mwestera/py4ling/main/src/pycharm.png" width=35% height=35%></p>
+**1.10.** In PyCharm, see if you can find the editor, the 'run' button, and the Python Console button. <p align="center"><img src="https://raw.githubusercontent.com/mwestera/python_for_linguists/main/pycharm.png" width=35% height=35%></p>
 
 **1.11.** As a student you can apply for the free PyCharm _educational license_ (https://www.jetbrains.com/community/education/#students). I would recommend getting this, mainly because it will let you host unlimited sessions of Code With Me (https://www.jetbrains.com/code-with-me/), in case you want to program together with a friend at a distance.
 
