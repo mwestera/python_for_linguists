@@ -96,7 +96,7 @@ mapping2 = {a: b for b, a in mapping.items()}	# construct the inverse mapping
 x = '657317'    # this is the student ID that I need to know the name for
 
 if x in mapping2:
-    print(new_mapping[x])	# print the student's name
+    print(mapping2[x])	# print the student's name
 ```
 
 
